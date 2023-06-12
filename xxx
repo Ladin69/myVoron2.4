@@ -30,10 +30,6 @@ restart_method: command
 ##--------------------------------------------------------------------
 
 [include mainsail.cfg]
-# [include KAMP/Adaptive_Mesh.cfg]
-## [include macros/*.cfg]
-[include stealthburner_leds.cfg]
-
 
 [printer]
 kinematics: corexy
